@@ -10,6 +10,5 @@ jobs:
       name: hello-job
       runs-on: ubuntu-latest
       steps:
-      - name: Echo Text
+      - name: Echo text
         run: echo "Hello, world!"
-        
